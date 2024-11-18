@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\bin\Debug\VPNClient.exe.config
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\bin\Debug\VPNClient.exe
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\bin\Debug\VPNClient.pdb
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\bin\Debug\OpenSSL.NETStandard.dll
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\obj\Debug\VPNClient.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\obj\Debug\VPNClient.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\obj\Debug\VPNClient.csproj.Up2Date
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\obj\Debug\VPNClient.exe
+C:\Users\Lenovo\source\repos\VPNClient\VPNClient\obj\Debug\VPNClient.pdb
