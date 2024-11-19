@@ -1,0 +1,7 @@
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\bin\Debug\VPNServer.exe.config
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\bin\Debug\VPNServer.exe
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\bin\Debug\VPNServer.pdb
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\obj\Debug\VPNServer.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\obj\Debug\VPNServer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\obj\Debug\VPNServer.exe
+C:\Users\Lenovo\source\repos\VPNServer\VPNServer\obj\Debug\VPNServer.pdb
