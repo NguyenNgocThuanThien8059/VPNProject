@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\bin\Debug\VPNServer.GUI.exe.config
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\bin\Debug\VPNServer.GUI.exe
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\bin\Debug\VPNServer.GUI.pdb
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.MainForm.resources
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.exe
+C:\Users\Lenovo\source\repos\VPNServer.GUI\VPNServer.GUI\obj\Debug\VPNServer.GUI.pdb
