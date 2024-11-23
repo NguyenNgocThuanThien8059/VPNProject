@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\bin\Debug\VPNClient.GUI.exe.config
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\bin\Debug\VPNClient.GUI.exe
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\bin\Debug\VPNClient.GUI.pdb
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.MainForm.resources
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.exe
+C:\Users\Lenovo\source\repos\VPNClient.GUI\VPNClient.GUI\obj\Debug\VPNClient.GUI.pdb
